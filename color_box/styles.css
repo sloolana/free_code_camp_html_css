@@ -1,0 +1,28 @@
+body {
+  background-color: #f4f4f4;
+  text-align: center;
+  
+}
+.color-box {
+  width: 70px;
+  height: 70px;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 8px;
+}
+.color1 {
+  background-color: #bfaf33;
+}
+.color2 {
+  background-color: rgb(255, 255, 0)
+}
+.color3 {
+  background-color: blue;
+}
+.color4 {
+  background-color: hsl(120, 100% , 50%, 0.8);
+}
+.color5 {
+  background: linear-gradient(to left,magenta,cyan);
+}
+
